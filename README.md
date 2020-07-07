@@ -35,5 +35,11 @@ User stories:
 • Give clear, concise information in a tone that is on a level with the user, explaining any jargon
 • Provide a way for a user to "test their knowledge" and provide content suited to their technical level i.e. if they have an email address, don't propose this as a tutorial to take
 
-
+# Color Scheme
+  We took an Art Deco approach to the color scheme and this is where you can view the colors selected:
 https://trello.com/c/GhIUPwX3/15-wireframes
+
+# Font Selection
+We chose to use Poiret One for the Font usage teamed up with Open Sans. They can be viewed here under pairings:
+https://fonts.google.com/specimen/Poiret+One?query=poiret+one
+
