@@ -1,39 +1,39 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# bi-team8 project July 2020 Hackathon
 
-Welcome USER_NAME,
+We wanted to come together as a team and create a website aimed at older folks who are safely socially distancing during this time. While they are doing so, our aim was to help them connect with the outside world (family and friends).
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+# UX
+The styling of the visual aspects of this website are aimed at older people, hence, probably are accustomed to the layout of a newspaper or more traditional methods of layout. We took inspiration from the 1950's art and media world to design our layout as such.
 
-## Gitpod Reminders
+The ideal client for the website is:
+  English speaking
+  Aged anywhere from 50 on up
+  Has an extended family in which they would wish to communicate with or a community of people online
+  
+The goal of this project is to provide people affected by quarantine and social distancing with limited computer skill a collection of easy-to-understand guides/tutorials to improve their social online-connectivity skills.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# User Stories
+User stories:
+• As a user, I want to find information on each main-stream social media and their use.
+• As a user, I want to find easy to understand guides/tutorials to set up an account with one/some of the main stream social medias.
+• As a user, I want to find guides/tutorials to initiate and participate in chats and video conferencing.
+• As a user, I want to find suggestions for groups and/or communities to get started.
+• As a user I want to be able to find out how to set up an email account
+• As a user I want to understand how email works and how to get the most out of it so that I can communicate with friends and family
+• As a user I want to be able to learn and understand more about digital platforms but not be patronised
+• As a user I want to learn more about smart speakers / assistants and how they might be useful in my day to day life
+• As a user I want to understand more about digital banking and how secure it is to feel confident in adopting it
 
-`python3 -m http.server`
+# Site Owner Goals:
+• As a site owner we want to facilitate the use of social medias and communication platforms for people with low IT skills.
+• As a site owner, we want to create an easy-to-understand series of guides and tutorials in getting started with and using social medias.
+• As a site owner, we want to receive feedback, including:
+• Evaluation of ease-of-use.
+• Suggestions for improvements.
+• As a site owner, we want our audience to connect with us on social media platforms.
+• Provide a site that gives information about various aspects of living in the digital space
+• Give clear, concise information in a tone that is on a level with the user, explaining any jargon
+• Provide a way for a user to "test their knowledge" and provide content suited to their technical level i.e. if they have an email address, don't propose this as a tutorial to take
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+https://trello.com/c/GhIUPwX3/15-wireframes
