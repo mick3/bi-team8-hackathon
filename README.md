@@ -37,11 +37,11 @@ User stories:
 
 # Website Direction
 For the website we have several stories that we used to develop the content of the site. These are:
-## As a user I would like to understand more about online security - i.e. email verification.
-## As a user I would like to be able to send a pictures / content to my family.
-## Getting set up with Digital Banking online.
-## As a user I want to understand how email works and how to get the most out of it so that I can communicate with friends and family + set account up.
-## As a user, I want to find guides/tutorials to initiate and participate in chats and video conferencing.
+##### As a user I would like to understand more about online security - i.e. email verification.
+##### As a user I would like to be able to send a pictures / content to my family.
+##### Getting set up with Digital Banking online.
+##### As a user I want to understand how email works and how to get the most out of it so that I can communicate with friends and family + set account up.
+##### As a user, I want to find guides/tutorials to initiate and participate in chats and video conferencing.
 
 # Color Scheme
   We took an Art Deco approach to the color scheme and this is where you can view the colors selected:
