@@ -35,6 +35,14 @@ User stories:
 • Give clear, concise information in a tone that is on a level with the user, explaining any jargon
 • Provide a way for a user to "test their knowledge" and provide content suited to their technical level i.e. if they have an email address, don't propose this as a tutorial to take
 
+# Website Direction
+For the website we have several stories that we used to develop the content of the site. These are:
+## As a user I would like to understand more about online security - i.e. email verification.
+## As a user I would like to be able to send a pictures / content to my family.
+## Getting set up with Digital Banking online.
+## As a user I want to understand how email works and how to get the most out of it so that I can communicate with friends and family + set account up.
+## As a user, I want to find guides/tutorials to initiate and participate in chats and video conferencing.
+
 # Color Scheme
   We took an Art Deco approach to the color scheme and this is where you can view the colors selected:
 https://trello.com/c/GhIUPwX3/15-wireframes
@@ -42,4 +50,12 @@ https://trello.com/c/GhIUPwX3/15-wireframes
 # Font Selection
 We chose to use Poiret One for the Font usage teamed up with Open Sans. They can be viewed here under pairings:
 https://fonts.google.com/specimen/Poiret+One?query=poiret+one
+
+# Technologies Used
+HTML 5
+CSS 3
+Bootstrap 4
+Javascript
+
+
 
