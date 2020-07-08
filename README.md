@@ -45,7 +45,7 @@ For the website we have several stories that we used to develop the content of t
 
 # Color Scheme
   We took an Art Deco approach to the color scheme and this is where you can view the colors selected:
-https://trello.com/c/GhIUPwX3/15-wireframes
+https://trello.com/c/GhIUPwX3/15-wireframes (artdeco colours.jpg)
 
 # Font Selection
 We chose to use Poiret One for the Font usage teamed up with Open Sans. They can be viewed here under pairings:
